@@ -37,10 +37,11 @@ body {
   margin: 0 auto;
 }
 
-#container {
+#container h1{
   font: 20px;
 }
 
+<<<<<<< HEAD
 #container h1{
   font-size: 20px;
 }
@@ -49,3 +50,15 @@ body {
   background: white;
   padding: 1em;
 }
+=======
+#post{
+  padding: 1em;
+}
+
+#footer{
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.6em;
+}
+>>>>>>> footer
